@@ -7,6 +7,6 @@
 
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=FFA518)
-![Beer](beer.svg)
+![Beer](beer_badge.svg)
 
 </div>

@@ -3,7 +3,7 @@
 # SpaceWar
 🚀 A space odyssey written in Java!
 
-![Space War Logo](space_war_rounded.png)
+![Space War Logo](space_war.png)
 
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=FFA518)

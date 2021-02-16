@@ -1,12 +1,13 @@
+<header role="banner">
+        <img src="space_war.png" alt="Space War" height=30px width=30px style="vertical-align: middle"> <b>Space War</b>
+</header>
+
 <div align="center">
 
-# SpaceWar
-🚀 A space odyssey written in Java!
+![Gameplay](spacewar.gif)
 
-![Space War Logo](space_war.png)
+### 🚀 A space odyssey written in Java!
 
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=FFA518)
-![Beer](https://img.shields.io/badge/MADE%20WITH-BEER%20%F0%9F%8D%BA-49C31C?style=flat)
+![Java](java.png) ![Beer](beer.png)
 
 </div>

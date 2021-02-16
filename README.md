@@ -1,6 +1,7 @@
 <div align="center" style='display: inline; vertical-align: middle;'>
 
-<img src='space_war.png' alt='Space War' height=30px width=30px style='padding-top: 15px'><b>Space War</b>
+<img src='space_war.png' alt='Space War' height=50px width=50px style='padding-top: 15px'>
+<b>Space War</b>
 
 ![Gameplay](spacewar.gif)
 

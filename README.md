@@ -1,6 +1,6 @@
-<div align="center" style='display: inline; vertical-align: middle;'>
+<div align="center" style="display: inline; vertical-align: middle;">
 
-<img src='space_war.png' alt='Space War' height=50px width=50px style='padding-top: 15px'>
+<img src='space_war.png' alt='Space War' height=50px width=50px>
 <br>
 <b>Space War</b>
 
@@ -8,6 +8,6 @@
 
 ### 🚀 A space odyssey written in Java!
 
-![Java](java.svg) ![Beer](beer.svg)
+<img src="java.svg" alt="Java" height=20px> <img src="beer.svg" alt="Beer">
 
 </div>

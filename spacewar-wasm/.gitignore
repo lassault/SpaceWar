@@ -1,0 +1,5 @@
+# Rust build artifacts
+target/
+
+# wasm-pack generated package (rebuilt on deploy)
+www/pkg/
